@@ -5,15 +5,9 @@
 
 - 🔭 I’m currently working on *Government Projects*
 
-- 🌱 I’m currently learning *NextJs and SwiftUI*
+- 💬 Ask me about *front-end,Flutter,*
 
-- 👯 I’m looking to collaborate on *Backend*
-
-- 🤝 I’m looking for help with *DevOps*
-
-- 💬 Ask me about *Backend,AWS,Flutter,Data Analysis*
-
-- 📫 How to reach me *rizwanikhan63@gmail.com*
+- 📫 How to reach me *gharatvikrant876@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
